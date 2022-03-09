@@ -1,0 +1,24 @@
+@media screen and (max-width:780px){
+    #about{
+        padding: 0px;
+        
+    }
+    #about .container{
+        margin-top: 0px;
+        
+    }
+    #about img{
+        width: 93%;
+       
+    }
+    .about-text{
+        width: 95%;
+    }
+    .testimonial-content{
+        width: 100%;
+        height: auto;
+    }
+    .testimonial {
+        padding: 2px 0px;
+    }
+}

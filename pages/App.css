@@ -1,0 +1,25 @@
+@media screen and (max-width: 400px) {
+  #features {
+    /* padding: 20px; */
+    width: 100%;
+  }
+  #header,#about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,#getstart,
+  #footer {
+    width: 100%;
+  }
+
+  #portfolio {
+    width: 100%;
+  }
+  #menu{
+    width: 100%;
+    background-color: red;
+  }
+  #contact h3 {
+    margin-top: 0px;
+  }
+}

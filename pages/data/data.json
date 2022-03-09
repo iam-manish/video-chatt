@@ -1,0 +1,195 @@
+{
+  "Header": {
+    "title": "\"We Are The Blockchain Company\"",
+    "paragraph": "We Are BlocOrbit."
+  },
+  "About": {
+    "paragraph": "We are a software development company specializing in developing reliable, secure and scalable decentralized applications based on Blockchain technologies. Get started today, and let us help you harness the power of Blockchain technologies.",
+    "Why": [
+      "A Pure Blockchain Company",
+      "Young, Skilled & Motivated Engineers",
+      "Strong Techinical & Business Knowledge",
+      "Effective Synergy & Reliability"
+    ],
+    "Why2": [
+      "End to End Customer Service",
+      "Complete Project Ownership",
+      "Quality & Support",
+      "Satisfied Customers"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "NFT MARKET PLACE",
+      "largeImage": "img/portfolio/01.png",
+      "smallImage": "img/portfolio/01.png"
+    },
+    {
+      "title": "TOKENS",
+      "largeImage": "img/portfolio/02.png",
+      "smallImage": "img/portfolio/02.png"
+    },
+    {
+      "title": "Dchat App",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    }
+    
+  ],
+  "Services": [
+    {
+      "icon": "img/services/2.png",
+      "name": "Decentralized System Design",
+      "text": "We architect and design software solutions based on distributed blockchain technologies across the board. Be it decentralized and distributed software solutions and applications (dApps), NFTs and NFT Marketplaces, Token and TokenoMics, Gaming and Metaverse- we do it all, idea? Or a software need? Leave it to us. "
+    },
+    {
+      "icon": "img/services/1.png",
+      "name": "Blockchain Based System Development",
+      "text": "We develop secure, scalable and decentralized software with Layer 1 and Layer 2 Blockchain technologies. With our end-to-end blockchain development services, we build products and software with a team that establishes a clear design process, meets deadlines, and delivers a spot-on quality software."
+    },
+    {
+      "icon": "img/services/4.png",
+      "name": "Blockchain Based Consulting",
+      "text": "You have an idea ? or a software need?  But don’t know how to implement it on the Blockchain. Leave it to. Our team of experts, the best in the industry, will help to translate your ideas into digital blueprints that can be quickly turned it into reality."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Development Approach",
+      "name": "We focus on delivering a usable product that is user-friendly, technically robust, and scalable. For this, we undertake a project-based approach for all of our software development projects. This allows to development of a well-thought-out software solution as a project and keeps the project on track and on budget."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Methodology",
+      "name": "We choose a software development methodology that will work best for the project at hand depending on the project goals and business need. This allows us to achieve efficient project management, meet end project objectives and minimize risks of overruns."
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Modular Re-use Approach",
+      "name": "As part of our custom software development methodology, we develop software applications using existing libraries and functionality that are proven and robust. This helps you to save time and money without compromising on quality."
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Technical Support",
+      "name": "We provide complete technical support for your customized software application. We assign the team manager as the dedicated point of contact not only during the system development but also for support ensuring quick solutions and support."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/03.jpg",
+      "name": "Banking & Finance",
+      "job": ""
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Fin Tech",
+      "job": ""
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Designed & Development",
+      "job": ""
+    },
+    
+    {
+      "img": "img/team/04.jpg",
+      "name": "Big Data & Analytics",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": "Maryland , USA",
+    "phone": "",
+    "email": "info@blocorbit.com",
+    "facebook": "https://www.linkedin.com/company/blocorbit/?viewAsMember=true",
+    "twitter": "https://www.linkedin.com/company/blocorbit/?viewAsMember=true",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "img/feature/2.png",
+      "title": "BLOCKCHAIN",
+      "text": "Layer 1 & Layer 2 Blockchains"
+    },
+    {
+      "icon": "img/feature/3.png",
+      "title": "APP/DAPPS",
+      "text": "Java/ JS Framework"
+    },
+    {
+      "icon": "img/feature/4.png",
+      "title": "DATABASE",
+      "text": "SQL / NoSql"
+    },
+    {
+      "icon": "img/feature/1.png",
+      "title": "Development Tools",
+      "text": "PM, Design tools"
+    }
+  ],
+  "GetStart":[
+    {
+      "img":"img/feature/1.png",
+      "num":"1",
+      "title":"Contact Us",
+      "text":"Fill the contact form protected by NDA. We will schedule a virtual meeting with our experts."
+    },
+    {
+      "img":"img/feature/1.png",
+      "num":"2",
+      "title":"Receive Consultation",
+      "text":"We will assign a resource, who will coordinate your requirements with our team to know the feasibility of your project idea."
+    },
+    {
+      "img":"img/feature/1.png",
+      "num":"3",
+      "title":"Get a Cost Estimate",
+      "text":"Based on the project requirements, we will share a project proposal with budget and timeline estimates."
+    },
+    {
+      "img":"img/feature/1.png",
+      "num":"4",
+      "title":"Kick Start Project",
+      "text":"Once the project is signed, we bring together a team from a range of disciplines to kick start your project."
+    }
+  ],
+  "DevelopmentProcess":[
+    {
+      "img":"img/feature/1.png",
+      "num":"1",
+      "title":"Need Assessment Consulting",
+      "text":"We work with our clients to identify their system needs and the potential of blockchain for their organization. We do market research, project feasibility assessment, analysis of blockchain platforms, tools, right features prioritization."
+    },
+    {
+      "img":"img/feature/1.png",
+      "num":"2",
+      "title":"System and UI/UX Design",
+      "text":"We deliver high-fidelity designs on every blockchain project that contains system blueprint design, including technical component definition, user stories, platform database design, and UI/US designs that offer a seamless user experience."
+    },
+    {
+      "img":"img/feature/1.png",
+      "num":"3",
+      "title":"Enterprise Blockchain Development",
+      "text":"From ideation to design and development, our blockchain experts build enterprise-grade applications, and scalable decentralized solutions, helping clients accelerate time to market, and maximize ROI."
+    },
+    {
+      "img":"img/feature/1.png",
+      "num":"4",
+      "title":"Deployment",
+      "text":"We monitor, maintain, and provide support for the deployed application. Our blockchain developers are available to help resolve any critical problems. Based on business requirements, we keep the dApp upgraded with minimal downtime."
+    },
+    {
+      "img":"img/feature/1.png",
+      "num":"5",
+      "title":"Maintenance and Upgrade",
+      "text":"Once the project is signed, we bring together a team from a range of disciplines to kick start your project."
+    },
+    {
+      "img":"img/feature/1.png",
+      "num":"6",
+      "title":"Migration ",
+      "text":"We provide the operational support needed to migrate your existing applications to the blockchain or from one blockchain protocol to another without disruptions."
+    }
+  ]
+}
